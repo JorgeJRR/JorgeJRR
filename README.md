@@ -1,6 +1,8 @@
+
 <p align="center">
-    <img width="600" src = "https://pbs.twimg.com/media/GZCVuGAXYAAgpCG?format=jpg&name=large"/>
+    <a href="https://ibb.co/R4kHSkb"><img src="https://i.ibb.co/G34PJ4p/Portada-Git-Hub-3-0.png" alt="Portada-Git-Hub-3-0" border="0"></a>
 </p>
+
 
 <h1 align="center">Hi 👋, I'm Jorge Romero</h1>
 <h3 align="center">A passionate python back-end developer and Unity game developer from Mexico!</h3>
