@@ -1,3 +1,5 @@
+<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus](https://pbs.twimg.com/media/GZCVuGAXYAAgpCG?format=jpg&name=large)" width="700" height="400"/>
+
 <h1 align="center">Hi 👋, I'm Jorge Romero</h1>
 <h3 align="center">A passionate python back-end developer and Unity game developer from Mexico!</h3>
 
