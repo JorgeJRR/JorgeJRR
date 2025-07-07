@@ -2,11 +2,11 @@
   <img src="https://i.ibb.co/qHPtWpH/Git-Hub-Banner-2-0.jpg" alt="Banner GitHub Jorge Romero" width="100%"/>
 </p>
 
-<h1 align="center">Hi there! 👋 I'm Jorge Romero</h1>
+<h1 align="center">Hi there! I'm Jorge Romero</h1>
 
 ---
 
-### 🎮 About Me
+### About Me
 
 I'm a passionate **Game Developer** with a focus on creating fresh and comforting experiences for players. My goal is to make games "feel good," believing that the true art of a video game lies in its mechanics—the pivotal connection between the player and the virtual world. I'm currently seeking my first professional role in game development.
 
@@ -14,7 +14,7 @@ I have a particular fondness for **Platformers** and **Action/Adventure** games.
 
 *"In my business card, I am a corporate president. In my mind, I am a game developer. But in my heart, I am a gamer."* - Satoru Iwata
 
-### 🛠️ Skills & Tools
+### Skills & Tools
 
 Here's a snapshot of my technical toolkit:
 
@@ -30,13 +30,13 @@ Here's a snapshot of my technical toolkit:
 
 I specialize in **Unity UI Programming**, focusing on crafting intuitive, responsive, and engaging user interfaces that enhance the player's experience.
 
-### ✨ Featured Projects
+### Featured Projects
 
 My current projects are focused on demonstrating my proficiency in various Unity UI systems. These are publicly available on my GitHub profile.
 
 ---
 
-#### 💬 Dialogue System
+#### Dialogue System
 
 A robust and flexible dialogue system built for Unity.
 * **Technologies Used:** Unity, C#, DOTween, Object Pooling, Singleton, ScriptableObjects
@@ -44,7 +44,7 @@ A robust and flexible dialogue system built for Unity.
 * **Key Contributions:** Developed the core architecture for dynamic dialogue trees and efficient resource management.
 * **Challenges Overcome:** Ensuring smooth text animations and integrating branching dialogue paths seamlessly.
 
-#### 🎒 Inventory System
+#### Inventory System
 
 A modular and expandable inventory solution for Unity games.
 * **Technologies Used:** Unity, C#, Object Pooling, Singleton, ScriptableObjects
@@ -52,7 +52,7 @@ A modular and expandable inventory solution for Unity games.
 * **Key Contributions:** Designed a highly reusable and data-driven inventory structure using ScriptableObjects for item definitions.
 * **Challenges Overcome:** Implementing a scalable system that allows for easy addition of new item types and inventory functionalities.
 
-#### ⚙️ Main Menu & Settings Menu
+#### Main Menu & Settings Menu
 
 A polished and user-friendly main menu and settings interface.
 * **Technologies Used:** Unity, C#, DOTween
@@ -62,7 +62,7 @@ A polished and user-friendly main menu and settings interface.
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 [![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=JorgeJRR&theme=dark&hide_border=false)](https://git.io/streak-stats)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeJRR&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)<br/>
@@ -70,7 +70,7 @@ A polished and user-friendly main menu and settings interface.
 
 ---
 
-### 📧 Get in Touch
+### Get in Touch
 
 I'm always open to new opportunities and collaborations!
 
@@ -78,9 +78,3 @@ I'm always open to new opportunities and collaborations!
 * **LinkedIn:** [Jorge Romero](https://www.linkedin.com/in/jorge-romero-023798269/)
 * **GitHub Profile:** My public repositories are my professional portfolio. Feel free to explore my work!
     * [github.com/JorgeJRR](https://github.com/JorgeJRR)
-
----
-
-<p align="center">
-  Made with ❤️ by Jorge Romero
-</p>
